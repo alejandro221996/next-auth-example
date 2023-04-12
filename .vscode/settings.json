@@ -1,0 +1,5 @@
+{
+  "nuxt.isNuxtApp": false,
+  //Disable prettier on tsx files
+  "editor.formatOnSaveMode": "file"
+}
